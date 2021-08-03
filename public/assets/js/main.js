@@ -1,5 +1,5 @@
 /*--------------------------
-    Project Name: Medcity
+    Project Name: Omega
     Version: 1.0
     Author: 7oorof
     Relase Date: April 2021
